@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ddb4b5-feeb-4e51-958a-064cac914af8" name="Default Changelist" comment="" />
+    <list default="true" id="34ddb4b5-feeb-4e51-958a-064cac914af8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +42,43 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.HomeWork_Two" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.HomeWork_One.Task_Three" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Two" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.LinkedListExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HomeWork_Two.ArrayListExample" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.HomeWork_Two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HomeWork_Two.LinkedListExample" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.HomeWork_Two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.HomeWork_One.Task_Two.Main" />
       <module name="HomeWork" />
@@ -86,6 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListExample" />
+        <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PersonBuilder" />
       </list>
@@ -115,6 +151,7 @@
       <updated>1576265563411</updated>
       <workItem from="1576265575452" duration="11381000" />
       <workItem from="1576358473020" duration="312000" />
+      <workItem from="1576939674496" duration="6417000" />
     </task>
     <servers />
   </component>
@@ -134,30 +171,34 @@
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
     <state x="1319" y="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1576277464586" />
-    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1576322968629">
+    <state x="1242" y="569" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576955826504">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1335@0.23.2560.1335" timestamp="1576322968629" />
-    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1576322968628">
+    <state x="1242" y="569" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1576955826504" />
+    <state width="1631" height="271" key="GridCell.Tab.0.bottom" timestamp="1576960295426">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.2560.1335@0.23.2560.1335" timestamp="1576322968628" />
-    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1576322968628">
+    <state width="1631" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1335@0.23.2560.1335" timestamp="1576960295426" />
+    <state width="1631" height="271" key="GridCell.Tab.0.center" timestamp="1576960295426">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.2560.1335@0.23.2560.1335" timestamp="1576322968628" />
-    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1576322968629">
+    <state width="1631" height="271" key="GridCell.Tab.0.center/0.23.2560.1335@0.23.2560.1335" timestamp="1576960295426" />
+    <state width="1631" height="271" key="GridCell.Tab.0.left" timestamp="1576960295426">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.2560.1335@0.23.2560.1335" timestamp="1576322968629" />
+    <state width="1631" height="271" key="GridCell.Tab.0.left/0.23.2560.1335@0.23.2560.1335" timestamp="1576960295426" />
+    <state width="1631" height="271" key="GridCell.Tab.0.right" timestamp="1576960295426">
+      <screen x="0" y="23" width="2560" height="1335" />
+    </state>
+    <state width="1631" height="271" key="GridCell.Tab.0.right/0.23.2560.1335@0.23.2560.1335" timestamp="1576960295426" />
     <state x="789" y="329" key="SettingsEditor" timestamp="1576265865296">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
     <state x="789" y="329" key="SettingsEditor/0.23.2560.1335@0.23.2560.1335" timestamp="1576265865296" />
-    <state x="950" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1576361672857">
+    <state x="950" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1576942721850">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state x="950" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1576361672857" />
+    <state x="950" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1576942721850" />
     <state x="1246" y="461" width="670" height="676" key="search.everywhere.popup" timestamp="1576276478750">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
