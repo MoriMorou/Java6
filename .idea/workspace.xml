@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ddb4b5-feeb-4e51-958a-064cac914af8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Four/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sql/script.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Four/file.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Four/JDBCApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +19,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -174,7 +194,8 @@
       <workItem from="1576939674496" duration="6417000" />
       <workItem from="1579295116372" duration="689000" />
       <workItem from="1579538477640" duration="207000" />
-      <workItem from="1579958205479" duration="141000" />
+      <workItem from="1579958205479" duration="377000" />
+      <workItem from="1580491235989" duration="641000" />
     </task>
     <servers />
   </component>
@@ -182,6 +203,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="870" y="446" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580492176169">
+      <screen x="0" y="23" width="2560" height="1335" />
+    </state>
+    <state x="870" y="446" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1580492176169" />
     <state x="1339" y="550" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579297999772">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
@@ -190,6 +215,10 @@
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
     <state x="1093" y="413" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1335@0.23.2560.1335" timestamp="1576277990066" />
+    <state x="958" y="524" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580492272717">
+      <screen x="0" y="23" width="2560" height="1335" />
+    </state>
+    <state x="958" y="524" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1580492272717" />
     <state x="1319" y="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576277464586">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
@@ -218,10 +247,10 @@
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
     <state x="789" y="329" key="SettingsEditor/0.23.2560.1335@0.23.2560.1335" timestamp="1576265865296" />
-    <state x="950" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1579958277310">
+    <state x="950" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1580491236503">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state x="950" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1579958277310" />
+    <state x="950" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1580491236503" />
     <state x="1246" y="461" width="670" height="676" key="search.everywhere.popup" timestamp="1576276478750">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
