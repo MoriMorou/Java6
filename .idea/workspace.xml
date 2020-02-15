@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34ddb4b5-feeb-4e51-958a-064cac914af8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Sex_servlets/HelloWorldServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Sex_servlets/HelloWorldServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -71,15 +73,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Two" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.example.HomeWork_One.Task_Three" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.HomeWork_Three" />
       <recent name="org.example.HomeWork_Two" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.HomeWork_Sex.servlets" />
+      <recent name="org.example.HomeWork_One.Task_Three" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/HomeWork_Two" />
     </key>
   </component>
   <component name="RunManager" selected="Application.GameLauncher">
@@ -202,6 +208,8 @@
       <workItem from="1580491235989" duration="641000" />
       <workItem from="1580492451652" duration="2328000" />
       <workItem from="1580620389007" duration="496000" />
+      <workItem from="1581785068356" duration="105000" />
+      <workItem from="1581785281166" duration="2455000" />
     </task>
     <servers />
   </component>
@@ -209,10 +217,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="870" y="446" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580494931304">
+    <state x="910" y="390" key="#Assign_Data_Sources" timestamp="1581786477346">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state x="870" y="446" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1580494931304" />
+    <state x="910" y="390" key="#Assign_Data_Sources/0.23.2560.1335@0.23.2560.1335" timestamp="1581786477346" />
+    <state x="870" y="446" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581785817929">
+      <screen x="0" y="23" width="2560" height="1335" />
+    </state>
+    <state x="870" y="446" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1581785817929" />
     <state x="1339" y="550" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579297999772">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
@@ -221,10 +233,14 @@
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
     <state x="1093" y="413" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1335@0.23.2560.1335" timestamp="1576277990066" />
-    <state x="958" y="524" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580492272717">
+    <state x="958" y="524" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581785165486">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state x="958" y="524" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1580492272717" />
+    <state x="958" y="524" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1581785165486" />
+    <state x="1091" y="591" width="439" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581788699985">
+      <screen x="0" y="23" width="2560" height="1335" />
+    </state>
+    <state x="1091" y="591" width="439" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.2560.1335@0.23.2560.1335" timestamp="1581788699985" />
     <state x="1319" y="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576277464586">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
@@ -249,14 +265,22 @@
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
     <state width="1631" height="271" key="GridCell.Tab.0.right/0.23.2560.1335@0.23.2560.1335" timestamp="1576960295426" />
+    <state x="848" y="387" key="Maven.ArtifactSearchDialog" timestamp="1581789053517">
+      <screen x="0" y="23" width="2560" height="1335" />
+    </state>
+    <state x="848" y="387" key="Maven.ArtifactSearchDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1581789053517" />
     <state x="789" y="329" key="SettingsEditor" timestamp="1576265865296">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
     <state x="789" y="329" key="SettingsEditor/0.23.2560.1335@0.23.2560.1335" timestamp="1576265865296" />
-    <state x="950" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1580621040145">
+    <state x="950" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1581785710015">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state x="950" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1580621040145" />
+    <state x="950" y="524" key="com.intellij.ide.util.TipDialog/0.23.2560.1335@0.23.2560.1335" timestamp="1581785710015" />
+    <state x="740" y="429" key="new project wizard" timestamp="1581786836529">
+      <screen x="0" y="23" width="2560" height="1335" />
+    </state>
+    <state x="740" y="429" key="new project wizard/0.23.2560.1335@0.23.2560.1335" timestamp="1581786836529" />
     <state x="1246" y="461" width="670" height="676" key="search.everywhere.popup" timestamp="1576276478750">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>

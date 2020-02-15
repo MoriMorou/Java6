@@ -1,4 +1,4 @@
-package org.example.HomeWork_Sex.servlets;
+package org.example.HomeWork_Sex_servlets;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
